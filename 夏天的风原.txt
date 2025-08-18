@@ -114,7 +114,7 @@
       "searchable": 1,
       "快速搜索": 1,
       "filterable": 1
-    }，
+    },
     {
       "key": "夸克云盘",
       "name": "我的｜夸克",
@@ -895,3 +895,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
